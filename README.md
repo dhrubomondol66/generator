@@ -92,41 +92,6 @@ ___
   
 #### 5. Extract the weights of the generator  
   >  `python get_generator_ckpt.py --checkpoint_dir  ../checkpoint/AnimeGANv2_Shinkai_lsgan_300_300_1_2_10_1  --style_name Shinkai`  
-  
-____  
-## Results  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/AnimeGANv2.png)   
-     
-____ 
-:heart_eyes:  Photo  to  Paprika  Style  
-  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/37.jpg)   
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/38.jpg)     
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/6.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/7.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/9.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/21.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/44.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/1.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/8.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/11.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/5.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Paprika/concat/15.jpg)   
-____  
-:heart_eyes:  Photo  to  Hayao  Style   
-  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/AE86.jpg)   
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/10.jpg)     
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/15.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/35.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/39.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/42.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/44.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/41.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/32.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/11.jpg)  
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/34.jpg)   
-![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Hayao/concat/18.jpg)    
 ____  
 :heart_eyes:  Photo  to  Shinkai  Style   
 ![](https://github.com/TachibanaYoshino/AnimeGANv2/blob/master/results/Shinkai/concat/7.jpg)   
